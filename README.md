@@ -228,3 +228,5 @@ The application logs basic diagnostic data (telemetry). For more information on 
 [privacy-link]: http://go.microsoft.com/fwlink/?LinkId=521839
 [loc-bug]: https://github.com/microsoft/PowerToys/issues/new?assignees=&labels=&template=translation_issue.md&title=
 [usingPowerToys-docs-link]: https://aka.ms/powertoys-docs
+
+Hello Wrold
